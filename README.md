@@ -1,6 +1,6 @@
 # Groccy – Indian Grocery Delivery App (Private)
 
-Groccy is a private, mobile-first grocery delivery app designed specifically for Indian stores and users in the USA. The frontend is built using React Native and supports seamless features like:
+Groccy is a private, mobile grocery delivery app designed specifically for Indian stores and users in the USA. The frontend is built using React Native and supports seamless features like:
 
 - 📍 Location-based vendor discovery
 - 🛒 Smart cart & checkout system
